@@ -12,6 +12,9 @@ CLI-based task scheduling system to manage and visualize scheduled tasks across 
 - Metadata support for tasks
 - Visual presentation using Rich library
 
+![image](https://github.com/user-attachments/assets/972f3f1a-5db9-4367-95c5-1798f86436ac)
+
+
 ## Installation
 
 1. Clone this repository:
