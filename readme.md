@@ -14,6 +14,9 @@ CLI-based task scheduling system to manage and visualize scheduled tasks across 
 
 ![image](https://github.com/user-attachments/assets/972f3f1a-5db9-4367-95c5-1798f86436ac)
 
+**Task.ini Example**
+![image](https://github.com/user-attachments/assets/3c7dd027-a5be-43d3-b9eb-bfcd58624eab)
+
 
 ## Installation
 
