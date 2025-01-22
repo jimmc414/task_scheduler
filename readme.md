@@ -2,6 +2,8 @@
 
 CLI-based task scheduling system to manage and visualize scheduled tasks across multiple clients. Shows tasks due today and in the coming business days.
 
+This program exists to assist with presenting the user with the current and upcoming tasks from a tasklist based on the current date and the tasks schedule database.
+
 ## Features
 
 - CLI interface with ASCII art and color-coded displays
@@ -11,6 +13,12 @@ CLI-based task scheduling system to manage and visualize scheduled tasks across 
 - Multiple scheduling options
 - Metadata support for tasks
 - Visual presentation using Rich library
+
+![image](https://github.com/user-attachments/assets/972f3f1a-5db9-4367-95c5-1798f86436ac)
+
+**Task.ini Example**
+![image](https://github.com/user-attachments/assets/3c7dd027-a5be-43d3-b9eb-bfcd58624eab)
+
 
 ## Installation
 
